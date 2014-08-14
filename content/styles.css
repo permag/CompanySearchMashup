@@ -1,0 +1,49 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+.panel {
+	padding-left: 15px;
+	clear: both;
+}
+.panel:hover {
+	background-color: rgba(128, 128, 128, 0.1);
+}
+
+#submit-search {
+	margin-left: 7px;
+}
+.persons-count {
+	font-weight: normal;
+}
+a {
+	cursor: pointer;
+}
+#show-result-text {
+	float: left;
+	display: inline;
+}
+#download-csv {
+	float: right;
+	display: inline;
+	margin-right: 11px;
+}
+#check-all {
+	float: right;
+	margin-right: 6px;
+	margin-bottom: 9px;
+}
+.check-box {
+	display: inline;
+	float: right;
+	width: 20px;
+	margin-right: 7px;
+
+}
+#next-page {
+	clear: both;
+	float: left;
+	width: 200px;
+	margin-bottom: 11px;
+}
